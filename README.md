@@ -1,3 +1,3 @@
 # sample-project
 
-This project was ccut out from a real project. It is just sample.
+This project was cut out from a real project. It is just sample.
